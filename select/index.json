@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "相思相愛",
+  "base_artist": "aiko",
+  "createdAt": "2025-12-17T09:48:47.096793Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "相思相愛",
+      "artist": "OFFICIAL HIGE DANDISM",
+      "has_synced": true,
+      "path": "select/01_相思相愛_OFFICIAL_HIGE_DANDISM.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "相思相愛☆destination",
+      "artist": "Fairies (フェアリーズ)",
+      "has_synced": true,
+      "path": "select/02_相思相愛☆destination_Fairies_(フェアリーズ).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "相思相愛 loveheart",
+      "artist": "miraie",
+      "has_synced": true,
+      "path": "select/03_相思相愛_loveheart_miraie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "相思相愛",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/04_相思相愛_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "相思相愛",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/05_相思相愛_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "相思相愛",
+      "artist": "aiko",
+      "has_synced": true,
+      "path": "select/06_相思相愛_aiko.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "相思相愛",
+      "artist": "YUKI",
+      "has_synced": true,
+      "path": "select/07_相思相愛_YUKI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "相思相愛",
+      "artist": "aiko",
+      "has_synced": false,
+      "path": "select/pl_01_相思相愛_aiko.txt"
+    }
+  ]
+}
